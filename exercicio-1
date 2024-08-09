@@ -1,0 +1,11 @@
+Cronograma de estudos de programação:
+
+Plano basico:
+1 passo: login para o cliente se cadastrar (cadastrar / logout)
+2 passo : o sistema pergunta os interesses do cliente e com bases na respota gera recomendações semanais(algoritimo)
+3 passo: o sistema gera um Calendario onde o cliente pode definir os dias da semana que pode estudar
+4 passo : o sistema se baseia nos melhores horarios para o cliente ter seu tempo de estudo
+5 passo: o nosso sitema deve permitir que o cliente determine uma meta diaria/semanal/semestral  onde o cliente marca os seu resultados por meio de uma checklist, com base no resultado da cheklist o sistema gera um resumo diario/semanal do que foi ou não foi feito
+6 passo: o sistema deve enviar notificações qundo o cliente não concluir determinada tarefa, tais tarefas que ele marcou em suas metas
+
+nomes: Arthur tavares, guilherme villona, Pedro Machado
