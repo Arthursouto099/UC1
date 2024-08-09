@@ -1,5 +1,7 @@
 Cronograma de estudos de programação:
 
+Requisitos Funcionais:
+
 Plano basico:
 1 passo: login para o cliente se cadastrar (cadastrar / logout)
 2 passo : o sistema pergunta os interesses do cliente e com bases na respota gera recomendações semanais(algoritimo)
@@ -7,5 +9,15 @@ Plano basico:
 4 passo : o sistema se baseia nos melhores horarios para o cliente ter seu tempo de estudo
 5 passo: o nosso sitema deve permitir que o cliente determine uma meta diaria/semanal/semestral  onde o cliente marca os seu resultados por meio de uma checklist, com base no resultado da cheklist o sistema gera um resumo diario/semanal do que foi ou não foi feito
 6 passo: o sistema deve enviar notificações qundo o cliente não concluir determinada tarefa, tais tarefas que ele marcou em suas metas
+
+
+Requisitos Não Funcionais: 
+
+1: o sistema deve ter uma resposta rapida (no maximo de tempo de 3 segundo)as requisições do cliente  para melhor desepenho e agilidade do sistema, essa agilidade deve ser esperada nas  áreas de  cadastro,metas,cronogramas e recomendações.
+2: o sistema deve possuir um tratamento de erro rapido e eficente onde qualquer bug possa ser resolvido sem estragar a experiencia do cliente
+3: dados sencensiveis do cliente devem ser protegidos por criptografia,onde só cliente tem acesso as suas proprias informações,metas,cronogramas e tudo o que o app ofereçe (informações exclusivas para cada usuario)
+4: a interface deve ser facil e simples para o usuario. Funcionalidades como calendario, cronograma  e metas devem ser intuitivas e facil para uso dos usuarios. 
+5: o app deve funcionar nos seguintes dispositivos: mobile e computador,tendo versões exclusivas para cada dispositivo(layout mobile e layout web) 
+6: em casa de queda do servidor todos os dados, metas,  calendario e cronogram devem ser salvos sem nenhuma informaça perdida.
 
 nomes: Arthur tavares, guilherme villona, Pedro Machado
